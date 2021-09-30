@@ -7,5 +7,5 @@
 
 
 <p>
-## I am a experienced full-stack developer that specialized in blockchain, front-end, back-end and various technologies and languages such as Javascript, Node.js, Solidarity, Object-Oriented Programming, SQL, HTML5/CSS, Bootstrap, AWS & GCP, jQuery, AJAX, Express.js, MySQL, MongoDB, Sequelize, Webpack, React.js, Python, Haskell & Plutus.
+##I am a experienced full-stack developer that specialized in blockchain, front-end, back-end and various technologies and languages such as Javascript, Node.js, Solidarity, Object-Oriented Programming, SQL, HTML5/CSS, Bootstrap, AWS & GCP, jQuery, AJAX, Express.js, MySQL, MongoDB, Sequelize, Webpack, React.js, Python, Haskell & Plutus.
 </p>
