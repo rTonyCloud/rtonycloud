@@ -5,6 +5,7 @@
   </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtonycloud)](https://github.com/rtonycloud/github-readme-stats)
 
 <p>
 <h5>I am an experience, creative, professiona with over 2yrs of Full-Stack Developer experience that specialized in front-end, back-end, web3, blockchain.</h5>
