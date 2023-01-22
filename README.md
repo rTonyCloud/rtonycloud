@@ -20,9 +20,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="max-width:100%;"></code>
-    
-various technologies and languages such as Javascript, Node.js, Solidity, Object-Oriented Programming, HTML5/CSS, CSS frameworks, AWS & GCP, jQuery, AJAX, Express.js, MySQL, MongoDB, SQL,Sequelize, Webpack, React.js, Typscript, Python and much more.
- </h6>
 </p>
 
 - 🌱 I’m currently learning new technologies of web & app development
