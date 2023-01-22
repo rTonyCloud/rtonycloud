@@ -7,7 +7,7 @@
 
 
 <p>
-<h5>I am an experience, creative, professiona with over 2yrs of Full-Stack Developer experience that specialized in front-end, back-end, web3, blockchain. 
+<h5>I am an experience, creative, professiona with over 2yrs of Full-Stack Developer experience that specialized in front-end, back-end, web3, blockchain.</h5>
 
 - My coding technologies are: 
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-     width:100%;"></code>
