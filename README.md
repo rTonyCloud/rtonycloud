@@ -7,7 +7,7 @@
   </a>
 </p>
 
-   [![GitHub Streak](https://streak-stats.demolab.com?user=Rtonycloud&theme=dark)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com?user=rtonycloud&theme=vue-dark&border_radius=6.1&background=000000)](https://git.io/streak-stats)
 
 <p>
 <h5>I am an experience, creative, professiona with over 2.5yrs+ of Software Developer experience that specialized in front-end, back-end, web3 and blockchain.</h5>
