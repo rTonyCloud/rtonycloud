@@ -5,6 +5,8 @@
   </a>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rtonycloud&theme=dark)](https://git.io/streak-stats)
+
 <p>
 <h5>I am an experience, creative, professiona with over 2yrs of Full-Stack Developer experience that specialized in front-end, back-end, web3, blockchain.</h5>
 
