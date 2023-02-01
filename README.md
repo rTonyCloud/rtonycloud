@@ -29,5 +29,3 @@
 - 🌱 I’m currently learning new technologies of web & app development
 - 👯 I’m looking to collaborate on startup companies
 - 📫 How to reach me: rTonycloud@gmail.com
-
- <summary>Click here to expand my resume!</summary>
