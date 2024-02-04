@@ -10,7 +10,7 @@
    [![GitHub Streak](https://streak-stats.demolab.com?user=rtonycloud&theme=vue-dark&border_radius=6.1&background=000000)](https://git.io/streak-stats)
 
 <p>
-<h5>I am an experience, creative, professional with over 6+ years of Software Developer experience that specialized in front-end, back-end, web3 and blockchain.</h5>
+<h5>I am an experience, creative, professional with over 6+ years of Software Developer experience that specialized in front-end, back-end, cloud, database and native.</h5>
 
 - My coding technologies are: 
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-     width:100%;"></code>
